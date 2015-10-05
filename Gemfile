@@ -55,3 +55,6 @@ gem 'figaro', '1.0.0'
 # gem 'debugger', group: [:development, :test]
 
 gem 'rails_12factor', group: :production
+
+#Use paperclip for image uploads
+gem 'paperclip', '4.2.1'
